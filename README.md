@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon-walter-tudu&label=Profile%20views&color=0e75b6&style=flat" alt="simon-walter-tudu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@simonwtudu" target="blank"><img src="https://img.shields.io/twitter/follow/@simonwtudu?logo=twitter&style=for-the-badge" alt="@simonwtudu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/simonwtudu" target="blank"><img src="https://img.shields.io/twitter/follow/simonwtudu?logo=twitter&style=for-the-badge" alt="simonwtudu" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1KhWaT6Om4gl6761LPfx_b31nnwbj_Wp5">
 
@@ -22,7 +22,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simonwtudu" height="30" width="40" /></a>
+<a href="https://twitter.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simonwtudu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simon-walter-tudu-9a2561299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-walter-tudu-9a2561299" height="30" width="40" /></a>
 <a href="https://fb.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simonwtudu" height="30" width="40" /></a>
 <a href="https://instagram.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simonwtudu" height="30" width="40" /></a>
