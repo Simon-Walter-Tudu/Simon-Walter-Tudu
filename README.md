@@ -10,11 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simonwtudu" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/@simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simonwtudu" height="30" width="40" /></a>-->
 <a href="https://linkedin.com/in/simon-walter-tudu-9a2561299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-walter-tudu-9a2561299" height="30" width="40" /></a>
-<a href="https://fb.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simonwtudu" height="30" width="40" /></a>
+<!--<a href="https://fb.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simonwtudu" height="30" width="40" /></a>
 <a href="https://instagram.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simonwtudu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/simonwaltertudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="simonwaltertudu" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/simonwaltertudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="simonwaltertudu" height="30" width="40" /></a>-->
 <a href="https://www.leetcode.com/simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simonwtudu" height="30" width="40" /></a>
 </p>
 
