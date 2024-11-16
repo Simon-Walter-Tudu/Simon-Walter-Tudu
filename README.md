@@ -4,10 +4,18 @@
 <p align="left"> <a href="https://twitter.com/@simonwtudu" target="blank"><img src="https://img.shields.io/twitter/follow/@simonwtudu?logo=twitter&style=for-the-badge" alt="@simonwtudu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1KhWaT6Om4gl6761LPfx_b31nnwbj_Wp5">
 
+- 🔭 I’m currently working on **Programming**
+
+- 🌱 I’m currently learning **Programming**
+
+- 💬 Ask me about **Programming**
+
 - 📫 How to reach me **simonwtudu@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1XD1B0FxQfLDh_69R1-ovIEgtYQ4m_hsV/view?usp=sharing)
 
+- ⚡ Fun fact **I think I am Funny**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@simonwtudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simonwtudu" height="30" width="40" /></a>
