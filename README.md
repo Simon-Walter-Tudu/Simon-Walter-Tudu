@@ -1,7 +1,11 @@
 [![MasterHead](https://drive.google.com/uc?id=1LTy1-8plYvCmZXJCOfNd7P1B0dAdvDKK)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Simon Walter Tudu</h1>
+<h3 align="center">A passionate software developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon-walter-tudu&label=Profile%20views&color=0e75b6&style=flat" alt="simon-walter-tudu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@simonwtudu" target="blank"><img src="https://img.shields.io/twitter/follow/@simonwtudu?logo=twitter&style=for-the-badge" alt="@simonwtudu" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1KhWaT6Om4gl6761LPfx_b31nnwbj_Wp5">
 
 - 🔭 I’m currently working on **Programming**
